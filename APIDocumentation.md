@@ -44,7 +44,7 @@
 *   [**CALL Statement**](#user-content-callStmt)
 
 
-### <a name="openApi"></a> 1) .open(connectionString, [options,] callback)
+### <a name="openApi" id="openApi"></a> 1) .open(connectionString, [options,] callback)
 
 Open a connection to a database.
 
